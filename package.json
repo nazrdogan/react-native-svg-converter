@@ -1,0 +1,22 @@
+{
+  "name": "react-native-svg-converter",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rnsc": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0",
+    "css": "^2.2.4",
+    "html-to-json": "^0.6.0",
+    "lodash": "^4.17.11",
+    "svgson": "^3.0.0"
+  }
+}
