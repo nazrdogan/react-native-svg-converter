@@ -11,7 +11,7 @@ const program = require("commander");
 const chalk = require('chalk');
 const log = console.log;
 program.version("0.1.0").option("-f, --file", "File").parse(process.argv);
-var filePath = program.args.join(" ");
+const filePath = program.args.join(" ");
 if (fs.existsSync(filePath)) {
     run(filePath);
 }
