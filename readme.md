@@ -7,7 +7,7 @@ $ npm install react-native-svg-converter -g
 ## Usage
 
 ```js
- rnsc -f ./testsvg.svg
+ rn-svg-converter -f ./testsvg.svg
 ```
 
 ## License
