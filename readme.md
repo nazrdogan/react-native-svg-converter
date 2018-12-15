@@ -20,7 +20,7 @@ $ npm install react-native-svg-converter -g
 - Pink (you can find original svg in repo testsvg.svg) one using this repo.
 - Tested with Adobe XD
 
-![ss](https://github.com/nazrdogan/react-native-svg-converter/blob/master/ss.png)
+![ss](https://github.com/nazrdogan/react-native-svg-converter/blob/master/expo-ss1.png)
 
 
 ## License
