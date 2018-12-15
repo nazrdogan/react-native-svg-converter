@@ -1,6 +1,6 @@
 {
   "name": "react-native-svg-converter",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,19 @@
   "bin": {
     "rn-svg-converter": "./index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nazrdogan/react-native-svg-converter.git"
+  },
+  "keywords": [
+    "git",
+    "svg"
+  ],
+  "author": "Nazir DOĞAN <nazrdogan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nazrdogan/react-native-svg-converter/issues"
+  },
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.19.0",
